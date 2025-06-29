@@ -1,0 +1,25 @@
+/var/www/clarknav-api/deploy.sh: 3: cd: can't cd to /var/www/clarknav
+Pulling latest changes from GitHub...
+fatal: detected dubious ownership in repository at '/var/www/clarknav-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /var/www/clarknav-api
+Installing dependencies...
+No composer.json in current directory, to use the one at /var/www/clarknav-api run interactively or set config.use-parent-dir to true
+Composer could not find a composer.json file in /var/www/clarknav-api/public
+To initialize a project, please create a composer.json file. See https://getcomposer.org/basic-usage
+Running migrations...
+Could not open input file: artisan
+Clearing caches...
+Could not open input file: artisan
+Could not open input file: artisan
+Could not open input file: artisan
+Could not open input file: artisan
+Could not open input file: artisan
+Restarting queue and services...
+Could not open input file: artisan
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+Deployment complete!
